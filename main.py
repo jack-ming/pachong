@@ -5,7 +5,6 @@ import re
 #data = {}
 #data['word'] = 'Jecvay Notes'
 
-
 #url_values = urllib.parse.urlencode(data)
 url = "http://tieba.baidu.com/p/1753935195"
 #full_url = url + url_values
